@@ -1,0 +1,27 @@
+# OS_Learning generated files and build artifacts
+
+# Kernel module build artifacts (common for project_1_simple, project_2_jiffies)
+*.o
+*.ko
+*.mod
+*.mod.c
+*.mod.o
+Module.symvers
+modules.order
+
+# Kbuild intermediate command files
+.*.cmd
+
+# Root filesystem images or other large binary images
+*.img
+*.img.gz
+*.iso
+
+# Editor / OS specific files
+*.swp
+*.swo
+*~
+.DS_Store
+
+# VS Code
+.vscode/
