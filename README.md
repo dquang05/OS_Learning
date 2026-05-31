@@ -1,6 +1,6 @@
 # General Guide for Linux Kernel Module Development (ARM64)
 
-This document outlines the standard workflow for developing, cross-compiling, and deploying Out-of-Tree Kernel Modules for an ARM64 target using QEMU and BusyBox.
+This document outlines my workflow for developing, cross-compiling, and deploying Out-of-Tree Kernel Modules for an ARM64 target using QEMU and BusyBox.
 
 ---
 
